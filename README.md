@@ -1,1 +1,2 @@
-# implementations from https://substrate.io documentation
+# Code implementations from
+https://substrate.io
